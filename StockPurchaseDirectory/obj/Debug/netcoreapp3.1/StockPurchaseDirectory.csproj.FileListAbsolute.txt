@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.exe
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.deps.json
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.runtimeconfig.json
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.dll
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\bin\Debug\netcoreapp3.1\StockPurchaseDirectory.pdb
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.dll
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.pdb
+C:\Users\rmpfo\source\repos\StockPurchaseDirectory\StockPurchaseDirectory\obj\Debug\netcoreapp3.1\StockPurchaseDirectory.genruntimeconfig.cache
